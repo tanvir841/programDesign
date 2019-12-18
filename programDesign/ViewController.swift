@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-//up
+//upsss
     @IBOutlet weak var bgimage: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
